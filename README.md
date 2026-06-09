@@ -1,6 +1,6 @@
 # Video-Game-Sales-Prediction-Project
 Projekt zaliczeniowy z Programowania 2 - analiza danych Kaggle
-Cel projektu
+
 Głównym celem projektu jest analiza historycznych danych dotyczących rynku gier wideo oraz implementacja modeli uczenia maszynowego w celu przewidywania globalnej sprzedaży poszczególnych tytułów (w milionach kopii). Projekt realizuje zadanie z zakresu regresji, wykorzystując dane atrybutowe takie jak rok wydania, platforma, gatunek i wydawca gry.
 
 Opis zbioru danych
