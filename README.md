@@ -33,4 +33,4 @@ Las Losowy (Random Forest Regressor): Model zaawansowany, który osiągnął zna
 Optymalizacja hiperparametrów
 W celu poprawy wyników i zabezpieczenia algorytmu przed zjawiskiem przeuczenia (overfitting), przeprowadzono automatyczny dobór hiperparametrów dla modelu Lasu Losowego. Wykorzystano do tego technikę RandomizedSearchCV z walidacją krzyżową (Cross-Validation). Zbadano wpływ takich parametrów jak liczba estymatorów (drzew decyzyjnych), maksymalna głębokość drzewa oraz minimalna liczba próbek do podziału.
 
-Ostateczny, zoptymalizowany model Lasu Losowego osiągnął błąd oceny na poziomie RMSE = 0.96. Oznacza to, że model myli się średnio o 960 tysięcy sprzedanych kopii podczas szacowania globalnej sprzedaży na danych, których wcześniej nie analizował.
+Ostateczny, zoptymalizowany model Lasu Losowego osiągnął błąd oceny na poziomie RMSE = 1.95. Oznacza to, że model myli się średnio o 1950 tysięcy sprzedanych kopii podczas szacowania globalnej sprzedaży na danych, których wcześniej nie analizował.
